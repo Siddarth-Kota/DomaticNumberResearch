@@ -193,4 +193,4 @@ def tester():
 
 bestLeafCount = 0
 dAllPart = {}
-tester()
+Main()
